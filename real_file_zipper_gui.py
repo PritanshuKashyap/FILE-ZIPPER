@@ -3,7 +3,7 @@ from tkinter import filedialog, messagebox
 import zipfile 
 import os # Day 1 more activation      
  
-#Compression Code
+#Compression Code  
 def compress():
     file_path = filedialog.askopenfilename()
 
