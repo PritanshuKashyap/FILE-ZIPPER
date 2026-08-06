@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import zipfile 
-import os # Day 1 more activation      
+import os # Day 1 more activation        
  
 #Compression Code  
 def compress():
