@@ -5,7 +5,7 @@ import os # Day 1 more activation
  
 #Compression Code  
 def compress():
-    file_path = filedialog.askopenfilename()
+    file_path = filedialog.askopenfilename()  
  
     if not file_path:
         return
