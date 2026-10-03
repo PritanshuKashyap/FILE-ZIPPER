@@ -4,7 +4,7 @@ import zipfile
 import os # Day 1 more activation           
           
 #Compression Code          
-def compress():
+def compress():  
     file_path = filedialog.askopenfilename()  
  
     if not file_path:
